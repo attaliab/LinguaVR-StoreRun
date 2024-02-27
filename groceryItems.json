@@ -1,0 +1,36 @@
+{
+    "items": [
+        {"french": "La betterave", "spanish": "La remolacha", "german": "Die Rübe", "english": "Beet"},
+        {"french": "Le concombre", "spanish": "El pepino", "german": "Die Gurke", "english": "Cucumber"},
+        {"french": "L'ail", "spanish": "El ajo", "german": "Der Knoblauch", "english": "Garlic"},
+        {"french": "Le poivron rouge", "spanish": "El pimiento rojo", "german": "Der rote Pfeffer", "english": "Red pepper"},
+        {"french": "Le poivre vert", "spanish": "El pimiento verde", "german": "Der grüne Pfeffer", "english": "Green pepper"},
+        {"french": "L'aubergine", "spanish": "La berenjena", "german": "Die Aubergine", "english": "Eggplant"},
+        {"french": "Le chou", "spanish": "La col", "german": "Der Kohl", "english": "Cabbage"},
+        {"french": "L'oignon", "spanish": "La cebolla", "german": "Die Zwiebel", "english": "Onion"},
+        {"french": "L'avocat", "spanish": "El aguacate", "german": "Die Avocado", "english": "Avocado"},
+        {"french": "Le maïs", "spanish": "El maiz", "german": "Der Mais", "english": "Corn"},
+        {"french": "La citrouille", "spanish": "La calabaza", "german": "Der Kürbis", "english": "Pumpkin"},
+        {"french": "La carotte", "spanish": "La zanahoria", "german": "Die Karotte", "english": "Carrot"},
+        {"french": "La tomate", "spanish": "El tomate", "german": "Die Tomate", "english": "Tomato"},
+        {"french": "Le radis", "spanish": "El rábano", "german": "Der Rettich", "english": "Radish"},
+        {"french": "Les asperges", "spanish": "Los espárragos", "german": "Der Spargel", "english": "Asparagus"},
+        {"french": "Le pitaya", "spanish": "La dragonfruit", "german": "Die Drachenfrucht", "english": "Dragonfruit"},
+        {"french": "La poire", "spanish": "La pera", "german": "Die Birne", "english": "Pear"},
+        {"french": "Le melon", "spanish": "El melón", "german": "Die Melone", "english": "Melon"},
+        {"french": "La banane", "spanish": "El plátano", "german": "Die Banane", "english": "Banana"},
+        {"french": "L'orange", "spanish": "La naranja", "german": "Die Orange", "english": "Orange"},
+        {"french": "L'ananas", "spanish": "La piña", "german": "Die Ananas", "english": "Pineapple"},
+        {"french": "La grenade", "spanish": "La granada", "german": "Der Granatapfel", "english": "Pomegranate"},
+        {"french": "Les raisins", "spanish": "Las uvas", "german": "Die Trauben", "english": "Grapes"},
+        {"french": "La pomme", "spanish": "La manzana", "german": "Der Apfel", "english": "Apple"},
+        {"french": "Le fruit de la passion", "spanish": "La maracuyá", "german": "Die Passionsfrucht", "english": "Passionfruit"},
+        {"french": "Le citron", "spanish": "El limón", "german": "Die Zitrone", "english": "Lemon"},
+        {"french": "Le melon d'eau", "spanish": "La sandia", "german": "Die Wassermelone", "english": "Watermelon"}
+    ]
+}
+
+
+
+
+
